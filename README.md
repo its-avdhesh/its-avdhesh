@@ -15,7 +15,7 @@ My software journey is a thrilling rollercoaster of feature deployments, debuggi
 ## 🧑‍💻 A Few Things About Me
 - 🐞 Debugging my code and sometimes my life.
 - ☕ Powered by coffee and questionable coding choices.
-- 🛠️ Believes Ctrl + Z is the ultimate superpower.
+- 🛠️ Believes Cmd + Z is the ultimate superpower.
 - 🌐 Building things that may or may not work in production.
 - 🧠 Always learning, mostly from my own bugs.
 
