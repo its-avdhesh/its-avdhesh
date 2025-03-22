@@ -10,6 +10,7 @@ My software journey is a thrilling rollercoaster of feature deployments, debuggi
 - **Frontend:** React, JavaScript, Tailwind CSS, Redux
 - **Backend:** Node.js, Express.js, REST API
 - **Database:** MongoDB, SQL
+- **Languages:** C, C++, Python
 - **Tools:** Postman, Git, GitHub, Visual Studio Code
 
 ## 🧑‍💻 A Few Things About Me
