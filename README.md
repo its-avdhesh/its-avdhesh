@@ -7,7 +7,7 @@ I'm currently diving deep into JavaScript, React, and Node.js, building projects
 My software journey is a thrilling rollercoaster of feature deployments, debugging marathons, and the occasional victory dance when things work on the first try. Collaboration excites me, so if you've got a quirky project idea or a meme-worthy bug, count me in.
 
 
-🚀 Tech Stack I Work With
+🚀 Tech Stack I Work With:
 
 Frontend: React, JavaScript, Tailwind CSS, Redux
 Backend: Node.js, Express.js, REST API
