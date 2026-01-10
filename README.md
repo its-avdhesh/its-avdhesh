@@ -9,7 +9,7 @@ My software journey is a thrilling rollercoaster of feature deployments, debuggi
 ## 🚀 Tech Stack I Work With
 - **Frontend:** React, JavaScript, Tailwind CSS, Redux
 - **Backend:** Node.js, Express.js, REST API
-- **Database:** MongoDB, SQL
+- **Database:** MongoDB, SQL, MongoDB Atlas
 - **Languages:** C, C++, Python
 - **Tools:** Postman, Git, GitHub, Visual Studio Code
 
